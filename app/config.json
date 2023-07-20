@@ -1,0 +1,15 @@
+{
+    "Url": "http://localhost:8096",
+    "Browser": "Firefox",
+    "Environment": "ENVIRONMENT",
+    "Language": "pt-br",
+    "User": "admin",
+    "Password": "",
+    "LogInfoConfig": true,
+    "Headless": true,
+    "NewLog": true,
+    "MotExec": "TEST_PADRAO",
+    "ExecId": "20230228",
+    "LogUrl1": "http://localhost:8082/log/"
+
+}

@@ -1,0 +1,2 @@
+Data;Usuário;Estação;Programa;Data Programa;Total CTs;Passou;Falhou;Segundos;Versão;Release;CTs Falhou;Banco de dados;Chamado;ID Execução;Pais;Tipo de Teste
+"19/07/2023 23:06:30";"Felipe Gomes Mendes";"LAPTOP-9M5BA5HO";"";"19800101";1;0;1;244.71;"";"12.1.2210";"setUpClass - Wasn't possible execute Start() method: ";"";"TEST_PADRAO";"20230228";"";"TIR"

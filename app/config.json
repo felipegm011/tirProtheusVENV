@@ -1,5 +1,5 @@
 {
-    "Url": "http://localhost:8096",
+    "Url": "http://127.0.0.1:8096",
     "Browser": "Firefox",
     "Environment": "ENVIRONMENT",
     "Language": "pt-br",
@@ -10,6 +10,6 @@
     "NewLog": true,
     "MotExec": "TEST_PADRAO",
     "ExecId": "20230228",
-    "LogUrl1": "http://localhost:8082/log/"
+    "LogUrl1": "http://127.0.0.1:8082/log/"
 
 }

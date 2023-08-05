@@ -1,0 +1,2 @@
+Data;Usuário;Estação;Programa;Data Programa;Total CTs;Passou;Falhou;Segundos;Versão;Release;CTs Falhou;Banco de dados;Chamado;ID Execução;Pais;Tipo de Teste
+"26/07/2023 14:27:40";"felipe.mendes";"ARMPBM-AB056037";"";"19800101";1;0;1;187.74;"";"12.1.2210";"setUpClass - Wasn't possible execute Start() method: ";"";"TEST_PADRAO";"20230228";"";"TIR"
